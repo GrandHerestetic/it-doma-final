@@ -1,0 +1,11 @@
+.button {
+    font-family: "Nunito";
+    font-weight: 700;
+    line-height: 110%;
+    padding: 8px 38px 8px 38px;
+    color: white;
+    font-size: 20px;
+    background: linear-gradient(90.16deg, #4191fd 11.87%, #f534ec 98.57%);
+    border-radius: 24px;
+    border: none;
+  }

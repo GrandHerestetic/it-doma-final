@@ -1,0 +1,41 @@
+.userData form {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.profileForm {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 4% 12% 0% 12%;
+  font-family: "Nunito";
+  gap: 8%;
+  margin-top: 5%;
+}
+
+.profileForm form {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.icon {
+  height: 160px;
+  width: 160px;
+  border-radius: 100px;
+}
+
+.iconUploader {
+  display: flex;
+  gap: 12px;
+}
+
+.iconUploader input {
+  display: none;
+}
+
+.iconUploader p {
+  color: #2e9bff;
+  font-size: 22px;
+  font-family: "Nunito";
+  font-weight: 700;
+}

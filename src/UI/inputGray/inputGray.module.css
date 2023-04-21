@@ -1,0 +1,37 @@
+.inputForm {
+  min-width: 40%;
+  display: flex;
+  flex-direction: column;
+  font-family: "Nunito";
+  font-weight: 700;
+  font-size: 24px;
+  gap: 8px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.inputForm input {
+  padding: 6px 0px 6px 12px;
+  margin-left: 2px;
+  font-size: 20px;
+  border-radius: 22px;
+  border: 2px solid #d3d3d3;
+  color: black;
+}
+
+::-webkit-input-placeholder {
+  /* Edge */
+  color: black;
+  font-weight: 400;
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer */
+  color: black;
+  font-weight: 400;
+}
+
+::placeholder {
+  color: black;
+  font-weight: 400;
+}

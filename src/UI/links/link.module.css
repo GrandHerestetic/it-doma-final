@@ -1,0 +1,25 @@
+.link{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 8px 10px 8px 10px;
+    background-color: #e2f1ff;
+    border-radius: 22px;
+}
+
+.NavLink{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 8px 10px 8px 10px;
+    background-color: #e2f1ff;
+    border-radius: 22px;
+    text-decoration: none;
+    background-color: #e2f1ff;
+}
+
+.NavLink:hover{
+    background-color: #a7d5ff;
+}
+
+.link:hover{
+    background-color: #a7d5ff;
+}

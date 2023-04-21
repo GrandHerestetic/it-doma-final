@@ -1,0 +1,19 @@
+.button {
+  font-family: "Nunito";
+  font-weight: 700;
+  line-height: 110%;
+  padding: 4px 50px 4px 50px;
+  color: black;
+  font-size: 14px;
+  background: #FFFFFF;
+  border-radius: 16px;
+  border: none;
+}
+
+.button:hover {
+  background: #C777ED;
+}
+
+.button:active {
+  background: #C777ED;
+}

@@ -1,0 +1,38 @@
+.radioInput {
+  display: flex;
+  gap: 14px;
+}
+
+.navigationBar {
+  font-size: 18px;
+  display: flex;
+  flex-direction: row;
+  padding: 4% 12% 0% 12%;
+  gap: 20px;
+  font-family: "Nunito";
+  font-weight: 700;
+}
+
+.radioInput input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+
+  border: 4px solid white;
+  background: linear-gradient(90deg, #2e9bff 0%, #f534ec 100%);
+  transition: 0.2s all linear;
+  outline: none;
+  margin-right: 5px;
+
+  position: relative;
+  top: 2px;
+}
+
+.radioInput input:checked {
+  border: 0px solid;
+  background: linear-gradient(90deg, #2e9bff 0%, #f534ec 100%);
+}

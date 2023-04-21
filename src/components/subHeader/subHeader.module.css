@@ -1,0 +1,13 @@
+.subHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 100%;
+    background: linear-gradient(
+      90deg,
+      rgba(202, 180, 250, 0.29) 17.68%,
+      rgba(250, 230, 253, 0.29) 92.06%
+    );
+  }

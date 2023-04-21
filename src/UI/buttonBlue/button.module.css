@@ -1,0 +1,10 @@
+.button {
+    font-family: "Nunito";
+    padding: 0px 20px 0px 20px;
+    font-weight: 700;
+    color: white;
+    font-size: 18px;
+    background: #2E9BFF;
+    border-radius: 16px;
+    border: none;
+  }

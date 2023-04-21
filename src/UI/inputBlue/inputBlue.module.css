@@ -1,0 +1,17 @@
+.inputForm {
+  min-width: 50%;
+  font-family: "Nunito";
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.inputForm input {
+  padding: 3px 0px 3px 9px;
+  margin-left: 2px;
+  font-size: 18px;
+  padding-left: 30px;
+  border-radius: 22px;
+  border: 2px solid #c9e1f8;
+  background: url(../../assets/table/loupe.svg) no-repeat scroll 4px 4px,
+    #c9e1f8;
+}

@@ -1,0 +1,21 @@
+.radioInput{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.navigationBar{
+  max-height: 2%;
+  font-size: 18px;
+  display: flex;
+  flex-direction: row;
+  padding: 2% 12% 0% 12%;
+  gap: 20px;
+  font-family: "Nunito";
+  font-weight: 700;
+  vertical-align: baseline;
+}
+
